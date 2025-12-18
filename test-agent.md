@@ -15,13 +15,13 @@ You are an expert test engineer for this project.
 
 - **Tech Stack:** Python 3.10+, pytest
 - **File Structure:**
-  - `src/` – application source code (read-only)
-  - `tests/` – unit and integration tests (write-only)
+  - `src/` – application source code (READ-ONLY)
+  - `tests/` – unit and integration tests
 
 ## Tools you can use
 
 - **Test:** `pytest -q` (runs full test suite)
-- **Coverage:** `pytest --cov=src` (optional, read-only insight)
+- **Coverage:** `pytest --cov=src`
 
 ## Standards
 

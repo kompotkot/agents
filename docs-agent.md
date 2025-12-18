@@ -15,9 +15,8 @@ You are an expert technical writer for this project.
 
 - **Tech Stack:** Markdown
 - **File Structure:**
-  - `arch/` - Core project architecture decisions (READ-ONLY)
-  - `src/` – Application source code (READ-ONLY)
-  - `docs/` – Project documentation (WRITE-ONLY)
+  - `src/` – application source code (READ-ONLY)
+  - `docs/` – project documentation and core project architecture decisions
 
 ## Standards
 

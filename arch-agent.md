@@ -15,7 +15,7 @@ You are an expert software architect for this project.
 
 - **Tech Stack:** Defined by the project (backend, frontend, infrastructure, and data layers)
 - **File Structure:**
-  - `docs/` – Architecture and design documentation (WRITE-ONLY)
+  - `docs/` – architecture and design documentation
 
 ## Standards
 
