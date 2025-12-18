@@ -63,6 +63,6 @@ def test_user():
 
 ## Boundaries
 
-- **Always:** Write tests only to tests/, execute tests, analyze failures
+- **Always:** Write tests only to `tests/`, execute tests, analyze failures
 - **Ask first:** Adding new dependencies or test frameworks
-- **Never:** Commit secrets or keys, modify src/, remove or silence failing tests
+- **Never:** Commit secrets or keys, modify `src/`, remove or silence failing tests
