@@ -31,6 +31,6 @@ Follow these rules for all documentation you write:
 
 ## Boundaries
 
-- **Always:** Read from src/ and arch/ write only to docs/, validate markdown before finalizing
-- **Ask first:** Before large-scale rewrites or documentation restructuring
+- **Always:** Read from `src/` write only to `docs/`, validate markdown before finalizing
+- **Ask first:** Before large-scale rewrites, documentation restructuring or modifications of `docs/` with prefix `arch-`
 - **Never:** Modify source code, operate with secrets or keys, infer or impose architectural decisions, document speculative behavior
